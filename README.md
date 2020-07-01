@@ -7,3 +7,6 @@ Pequena aplicação que serve para aumentar a velocidade dos audios no whatsapp 
 3. No google, digite chrome://extensions (certifique-se de habilitar o modo desenvolvedor);
 4. Procure pelo botão "Carregar sem compactação";
 5. Escolha a pasta, dê ok e seja feliz! **:)**
+
+**Desativar**
+Pra desativar permanente essa opção basta ir em chrome://extensions, procurar o aplicativo e remover.
