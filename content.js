@@ -6,7 +6,7 @@ const interval = setInterval(() =>{
 
 
         const button = document.createElement("button")
-        button.innerHTML = "2x"
+        button.innerHTML = "1.5x"
         button.classList.add("twoTimesButton")
 
 
