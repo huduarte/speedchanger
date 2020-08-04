@@ -1,5 +1,5 @@
-<p align="center">
-   **What is:**
+
+ **What is:**
 Small application that serves to increase the speed of audios on whatsapp web to 2x.
 
 **How to use:**
@@ -14,4 +14,3 @@ To permanently disable this option just go to chrome: // extensions, search for 
 
 **It will be implemented**
 Shutdown option
-</p>
