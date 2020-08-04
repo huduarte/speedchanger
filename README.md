@@ -1,12 +1,17 @@
-**Oque é:**
-Pequena aplicação que serve para aumentar a velocidade dos audios no whatsapp web para 2x.
+<p align="center">
+   **What is:**
+Small application that serves to increase the speed of audios on whatsapp web to 2x.
 
-**Como usar:**
-1. Baixe o repositório em formato ZIP;
-2. Clique para extrair a pasta em algum local desejado;
-3. No google, digite chrome://extensions (certifique-se de habilitar o modo desenvolvedor);
-4. Procure pelo botão "Carregar sem compactação";
-5. Escolha a pasta, dê ok e seja feliz! **:)**
+**How to use:**
+1. Download the repository in ZIP format;
+2. Click to extract the folder in any desired location;
+3. In google, type chrome: // extensions (be sure to enable developer mode);
+4. Look for the "Load without compression" button;
+5. Choose the folder, click ok and be happy! **:) **
 
-**Desativar**
-Pra desativar permanente essa opção basta ir em chrome://extensions, procurar o aplicativo e remover.
+**Disable**
+To permanently disable this option just go to chrome: // extensions, search for the application and remove.
+
+**It will be implemented**
+Shutdown option
+</p>
